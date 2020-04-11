@@ -26,19 +26,7 @@ def compute_score(rem):
         score = 1
     return score
 
-class FooEnv(gym.Env):
-  metadata = {'render.modes': ['human']}
 
-  def __init__(self):
-    ...
-  def step(self, action):
-    ...
-  def reset(self):
-    ...
-  def render(self, mode='human'):
-    ...
-  def close(self):
-    ...
 def possible_choices(bd, d1, d2):
     choices = []
 
