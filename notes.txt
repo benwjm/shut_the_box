@@ -1,0 +1,2 @@
+Simulates shut the box game and stores data including decision tree to csv file.
+Can feed data into machine learning program to find optimal path?
