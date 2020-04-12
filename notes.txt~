@@ -1,0 +1,4 @@
+rewrite option_to_pick based on first checking length of options before
+generating random int and deciding what to remove
+currently generates random int and checks length of options, reverse this
+instead
